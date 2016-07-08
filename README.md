@@ -15,3 +15,23 @@ Start Region monitor as following:
 Then You will see as following:
 ![Region monitor](https://github.com/desenG/TrafficMoniteringSimulation/blob/master/imgs/region%20monitor%20center.PNG?raw=true " Region monitor")
 
+
+![2 Regions open](https://github.com/desenG/TrafficMoniteringSimulation/blob/master/imgs/2ClientViewsOpen.PNG?raw=true "2 Regions open")
+
+![BroadCast message](https://github.com/desenG/TrafficMoniteringSimulation/blob/master/imgs/BroadCast.PNG?raw=true "BroadCast message")
+
+![How many cars](https://github.com/desenG/TrafficMoniteringSimulation/blob/master/imgs/Howmanycars.PNG?raw=true "How many cars")
+
+
+![How much money](https://github.com/desenG/TrafficMoniteringSimulation/blob/master/imgs/Howmuchmoney.PNG?raw=true "How much money")
+
+![How many ticket](https://github.com/desenG/TrafficMoniteringSimulation/blob/master/imgs/howmanytickets.PNG?raw=true
+ "How many ticket")
+
+![clear chat history](https://github.com/desenG/TrafficMoniteringSimulation/blob/master/imgs/clearChatHistory.PNG?raw=true
+ "clear chat history")
+ 
+ 
+
+
+
