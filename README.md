@@ -15,7 +15,7 @@ Start Region monitor as following:
 Then You will see as following:
 ![Region monitor](https://github.com/desenG/TrafficMoniteringSimulation/blob/master/imgs/region%20monitor%20center.PNG?raw=true " Region monitor")
 
-
+2 Regions open:
 ![2 Regions open](https://github.com/desenG/TrafficMoniteringSimulation/blob/master/imgs/2ClientViewsOpen.PNG?raw=true "2 Regions open")
 
 BroadCast messag:
@@ -24,11 +24,14 @@ BroadCast messag:
 Special Command:
 ![How many cars](https://github.com/desenG/TrafficMoniteringSimulation/blob/master/imgs/Howmanycars.PNG?raw=true "How many cars")
 
+1. How much money
 ![How much money](https://github.com/desenG/TrafficMoniteringSimulation/blob/master/imgs/Howmuchmoney.PNG?raw=true "How much money")
 
+2. How many ticket
 ![How many ticket](https://github.com/desenG/TrafficMoniteringSimulation/blob/master/imgs/howmanytickets.PNG?raw=true
  "How many ticket")
 
+3. clear chat history
 ![clear chat history](https://github.com/desenG/TrafficMoniteringSimulation/blob/master/imgs/clearChatHistory.PNG?raw=true
  "clear chat history")
  
