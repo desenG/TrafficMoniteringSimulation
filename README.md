@@ -18,10 +18,11 @@ Then You will see as following:
 
 ![2 Regions open](https://github.com/desenG/TrafficMoniteringSimulation/blob/master/imgs/2ClientViewsOpen.PNG?raw=true "2 Regions open")
 
+BroadCast messag:
 ![BroadCast message](https://github.com/desenG/TrafficMoniteringSimulation/blob/master/imgs/BroadCast.PNG?raw=true "BroadCast message")
 
+Special Command:
 ![How many cars](https://github.com/desenG/TrafficMoniteringSimulation/blob/master/imgs/Howmanycars.PNG?raw=true "How many cars")
-
 
 ![How much money](https://github.com/desenG/TrafficMoniteringSimulation/blob/master/imgs/Howmuchmoney.PNG?raw=true "How much money")
 
